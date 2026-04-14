@@ -1,5 +1,7 @@
 Este arquivo README (produzido com o NotebookLM) fornece uma visão geral do caderno temático criado no NotebookLM, focado na investigação de **Ben McKenzie** sobre a indústria de criptomoedas e a anatomia da fraude no setor.
 
+---
+
 ### 1. Contexto e Objetivos
 
 **Assunto de Interesse:** A ascensão e queda do mercado de criptomoedas sob a lente investigativa do ator e economista Ben McKenzie, explorando os conceitos de "capitalismo de cassino" e a "era de ouro da fraude".
@@ -58,5 +60,8 @@ Durante a exploração deste notebook, foram testadas diversas abordagens para e
 3.  *"Quais são as defesas legais que exchanges utilizam no Brasil para evitar o pagamento de indenizações em casos de golpe?"*
 4.  *"Explique a diferença econômica entre oferta limitada e escassez aplicada ao Bitcoin."*
 
-Link para o NotebookLM
-https://notebooklm.google.com/notebook/414bd9ad-b7fd-4ee9-896f-65d6004b5cab?authuser=7
+---
+
+## Recursos adicionais
+- [NotebookLM com anotações](https://notebooklm.google.com/notebook/414bd9ad-b7fd-4ee9-896f-65d6004b5cab?authuser=7)
+
